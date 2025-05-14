@@ -26,13 +26,13 @@ Welcome to A Special Journey! This project is a collection of memorable moments 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kingbot901/Alhamdulabsu.git
+   git clone https://github.com/Anuj579/personalized-gift-website.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd Alhamdulabsu
+   cd personalized-gift-website
    ```
 
 3. Install the dependencies:
